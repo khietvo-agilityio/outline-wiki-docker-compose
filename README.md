@@ -1,7 +1,4 @@
 # Docker compose for outline wiki
-
-http://chsasank.github.io/outline-self-hosted-wiki.html
-
 Features:
 
 * A simple make and interactive bash script to help you generate all the conf required
